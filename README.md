@@ -4,13 +4,16 @@
 
 ### Software Developer | Mobile Developer | Full-Stack Developer
 
-I develop practical mobile, web, AI and IoT solutions with clean interfaces,
-reliable application logic and well-structured databases.
+I develop practical mobile, web, AI and IoT solutions with clean interfaces, reliable application logic and well-structured databases.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shomeswaran.xyz-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shomeswaran.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shomeswaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shomeswaran/)
 [![GitHub](https://img.shields.io/badge/GitHub-Shom3s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shom3s)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shomezwaran@gmail.com)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shom3s&label=Profile%20Views&color=7C3AED&style=flat-square)
 
 </div>
 
@@ -19,9 +22,9 @@ reliable application logic and well-structured databases.
 ## About Me
 
 - Software developer specialising in mobile applications and web systems
-- Experienced in Flutter, React, Firebase, Supabase and API integration
+- Experienced with Flutter, React, Firebase, Supabase and API integration
 - Currently developing **NutriPulse**, an AI-powered health and nutrition application
-- Experienced in machine-learning, computer-vision and IoT projects
+- Experienced in machine learning, computer vision and IoT projects
 - Interested in full-stack development, mobile engineering and intelligent systems
 - Open to internships, software-development opportunities and collaborations
 
@@ -46,9 +49,11 @@ reliable application logic and well-structured databases.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Databases and Cloud Services
 
@@ -71,6 +76,7 @@ reliable application logic and well-structured databases.
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=internetofthings&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-333333?style=flat-square&logo=microchip&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 
 ### Development and Design Tools
 
@@ -83,6 +89,7 @@ reliable application logic and well-structured databases.
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
@@ -90,10 +97,9 @@ reliable application logic and well-structured databases.
 
 ### 🥗 NutriPulse
 
-AI-powered health and nutrition tracking application developed using Flutter
-and Firebase.
+An AI-powered health and nutrition application developed using Flutter and Firebase.
 
-**Key features:**
+**Key features**
 
 - AI-assisted food recognition and calorie tracking
 - Health, hydration and physical-activity monitoring
@@ -101,6 +107,8 @@ and Firebase.
 - Gamification, achievements and daily missions
 - Community, marketplace and social features
 - Health-report generation
+- Step tracking and activity monitoring
+- Food, water and health diary management
 
 **Technologies:** Flutter, Dart, Firebase, FastAPI, Machine Learning
 
@@ -112,13 +120,15 @@ and Firebase.
 
 A mobile marketplace connecting pineapple entrepreneurs with customers.
 
-**Key features:**
+**Key features**
 
 - Separate entrepreneur and customer portals
 - Product, inventory and order management
 - Sales analytics and announcements
 - Firebase authentication and Firestore integration
 - Supabase image storage
+- Shopping cart and checkout system
+- Entrepreneur-specific order management
 
 **Technologies:** Flutter, Dart, Firebase, Supabase
 
@@ -128,15 +138,15 @@ A mobile marketplace connecting pineapple entrepreneurs with customers.
 
 ### 👁️ Retinal Disease Detection
 
-A machine-learning system that analyses retinal images to support retinal
-disease detection.
+A machine-learning system that analyses retinal images to support retinal disease detection.
 
-**Key features:**
+**Key features**
 
 - Retinal-image preprocessing
 - Machine-learning-based classification
 - Prediction and result visualisation
 - Structured model-training workflow
+- Image upload and analysis interface
 
 **Technologies:** Python, Machine Learning, NumPy, Pandas, Scikit-learn
 
@@ -146,21 +156,85 @@ disease detection.
 
 ### 💼 Personal Portfolio
 
-A responsive personal portfolio website presenting my projects, technical
-skills, achievements and experience.
+A responsive personal portfolio website presenting my projects, technical skills, achievements and experience.
 
-**Key features:**
+**Key features**
 
 - Responsive interface
 - Interactive animations
 - Project showcase
 - Skills and experience sections
 - Contact and professional-profile links
+- Modern dark interface
+- Sticky project cards and animated sections
 
-**Technologies:** React, TypeScript, Tailwind CSS, Framer Motion
+**Technologies:** React, TypeScript, Tailwind CSS, Framer Motion, Vite
 
 [View Repository](https://github.com/Shom3s/shomeswaran-portfolio)  
 [View Live Website](https://shomeswaran.xyz)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shom3s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shomeswaran GitHub statistics" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shom3s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Shomeswaran most used languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Shom3s&theme=tokyonight&hide_border=true" alt="Shomeswaran GitHub contribution streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shom3s&theme=tokyo-night&hide_border=true&area=true" alt="Shomeswaran GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shom3s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Shomeswaran GitHub trophies" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shom3s/Shom3s/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shom3s/Shom3s/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Shom3s/Shom3s/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 ---
 
@@ -168,7 +242,7 @@ skills, achievements and experience.
 
 - Mobile application development with Flutter
 - Full-stack web application development
-- Firebase Authentication and Firestore database integration
+- Firebase Authentication and Firestore integration
 - REST API development and integration
 - Machine-learning model development
 - Arduino and ESP32 development
@@ -176,6 +250,9 @@ skills, achievements and experience.
 - Database design and management
 - UI/UX prototyping and interface design
 - Testing, debugging and technical documentation
+- Git and GitHub version control
+- Responsive web interface development
+- API testing using Postman
 
 ---
 
@@ -199,3 +276,21 @@ Write maintainable code.
 Test before deployment.
 Document important decisions.
 Keep learning and improving.
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shomeswaran.xyz)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shomeswaran/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shom3s)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shomezwaran@gmail.com)
+
+<br />
+
+### Building practical software to solve real problems.
+
+</div>
