@@ -4,7 +4,7 @@
 
 ### Software Developer | Mobile Developer | Full-Stack Developer
 
-I develop practical mobile, web, AI and IoT solutions with clean interfaces,  
+I develop practical mobile, web, AI and IoT solutions with clean interfaces,
 reliable application logic and well-structured databases.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shomeswaran.xyz-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shomeswaran.xyz)
@@ -22,7 +22,6 @@ reliable application logic and well-structured databases.
 - Experienced in Flutter, React, Firebase, Supabase and API integration
 - Currently developing **NutriPulse**, an AI-powered health and nutrition application
 - Experienced in machine-learning, computer-vision and IoT projects
-- Experienced in C++, Data Structures and Algorithms, and file-based systems
 - Interested in full-stack development, mobile engineering and intelligent systems
 - Open to internships, software-development opportunities and collaborations
 
@@ -91,68 +90,37 @@ reliable application logic and well-structured databases.
 
 ### 🥗 NutriPulse
 
-An **AI-powered health and nutrition tracking application** developed using Flutter and Firebase.
+AI-powered health and nutrition tracking application developed using Flutter
+and Firebase.
 
-**Key Features:**
+**Key features:**
 
 - AI-assisted food recognition and calorie tracking
 - Health, hydration and physical-activity monitoring
 - Personalised AI health assistant
-- Gamification, achievements, XP and streaks
+- Gamification, achievements and daily missions
 - Community, marketplace and social features
 - Health-report generation
-- Step tracking and activity monitoring
-- Cloud-based user data management
 
-**Technologies:** Flutter, Dart, Firebase, REST API, Machine Learning, AI
+**Technologies:** Flutter, Dart, Firebase, FastAPI, Machine Learning
 
 [View Repository](https://github.com/Shom3s/nutripulse)
 
 ---
 
-### 🔍 IPETRO VIRS — Visual Inspection Reporting System
-
-A **full-stack Visual Inspection Reporting System** developed to digitalise industrial inspection reporting workflows and improve report generation.
-
-The system was developed as part of **Workshop II** and supports structured inspection workflows aligned with **API 510** practices.
-
-**Key Features:**
-
-- Digital inspection report management
-- Role-based dashboards
-- Inspection data entry and management
-- Image annotation for inspection findings
-- Automated report generation
-- PDF and Word report export
-- Backend and frontend integration
-- Structured SQL database management
-- Database migration support
-- API-based application architecture
-
-**Technologies:** JavaScript, Node.js, SQL, REST API, HTML, CSS, Flyway, PDF/Word Generation
-
-> 🔒 Repository is private.
-
----
-
 ### 🍍 Farm2Screen
 
-A mobile marketplace developed for a **SULAM project** to connect pineapple entrepreneurs directly with customers.
+A mobile marketplace connecting pineapple entrepreneurs with customers.
 
-**Key Features:**
+**Key features:**
 
 - Separate entrepreneur and customer portals
-- Entrepreneur and product management
-- Product catalogue and online ordering
-- Cart and checkout functionality
-- Order tracking and management
-- Sales analytics
-- Announcements
-- Firebase authentication
-- Firestore database integration
+- Product, inventory and order management
+- Sales analytics and announcements
+- Firebase authentication and Firestore integration
 - Supabase image storage
 
-**Technologies:** Flutter, Dart, Firebase, Firestore, Supabase
+**Technologies:** Flutter, Dart, Firebase, Supabase
 
 [View Repository](https://github.com/Shom3s/farm2screen)
 
@@ -160,18 +128,17 @@ A mobile marketplace developed for a **SULAM project** to connect pineapple entr
 
 ### 👁️ Retinal Disease Detection
 
-A **machine-learning and image-processing system** developed to analyse retinal images and support retinal disease detection.
+A machine-learning system that analyses retinal images to support retinal
+disease detection.
 
-**Key Features:**
+**Key features:**
 
-- Retinal image preprocessing
-- Image feature extraction
-- Machine-learning classification
-- Disease prediction
-- Result visualisation
-- Structured model training and evaluation
+- Retinal-image preprocessing
+- Machine-learning-based classification
+- Prediction and result visualisation
+- Structured model-training workflow
 
-**Technologies:** Python, Machine Learning, Image Processing, NumPy, Pandas, Scikit-learn
+**Technologies:** Python, Machine Learning, NumPy, Pandas, Scikit-learn
 
 [View Repository](https://github.com/Shom3s/Retinal-Disease-Detection)
 
@@ -179,15 +146,15 @@ A **machine-learning and image-processing system** developed to analyse retinal 
 
 ### 💼 Personal Portfolio
 
-A responsive personal portfolio website presenting my projects, technical skills, achievements and experience.
+A responsive personal portfolio website presenting my projects, technical
+skills, achievements and experience.
 
-**Key Features:**
+**Key features:**
 
 - Responsive interface
 - Interactive animations
 - Project showcase
-- Technical skills section
-- Experience and achievements
+- Skills and experience sections
 - Contact and professional-profile links
 
 **Technologies:** React, TypeScript, Tailwind CSS, Framer Motion
@@ -197,125 +164,27 @@ A responsive personal portfolio website presenting my projects, technical skills
 
 ---
 
-### 🚗 JPJ Management System
-
-A **C++ Data Structures and Algorithms project** that simulates a JPJ service management system using queue-based customer processing.
-
-**Key Features:**
-
-- Customer registration management
-- Queue-based service processing
-- FIFO customer handling
-- Customer record management
-- Modular C++ implementation
-- Practical implementation of queue data structures
-
-**Technologies:** C++, Data Structures & Algorithms, Queue, OOP, Visual Studio
-
-[View Repository](https://github.com/Shom3s/JPJ-MANAGEMENT-SYSTEM)
-
----
-
-### 📚 Library Management System
-
-A **C++ library management application** developed to manage library information using CSV-based file storage.
-
-**Key Features:**
-
-- Manage library records
-- Add new records
-- Search stored information
-- Retrieve records
-- Update library information
-- CSV-based persistent data storage
-- File handling and record management
-
-**Technologies:** C++, CSV, File Handling, OOP, Visual Studio
-
-[View Repository](https://github.com/Shom3s/Library-Management-System)
-
----
-
-### 🚘 Road Transport Authority System
-
-A **C++ road transport management system** developed to manage vehicle-related services including penalty management and road tax renewal.
-
-**Key Features:**
-
-- Vehicle record management
-- Penalty management
-- Penalty payment processing
-- Road tax renewal
-- HTML receipt generation
-- CSV-based data storage
-- Graphical report generation
-
-**Technologies:** C++, CSV, HTML, File Handling, OOP, Visual Studio
-
-[View Repository](https://github.com/Shom3s/ROAD-TRANSPORT-AUTHORITY-SYSTEM)
-
----
-
-## Project Overview
-
-| Project | Main Technologies | Area |
-|---|---|---|
-| 🥗 **NutriPulse** | Flutter, Firebase, AI/ML | Mobile / AI |
-| 🔍 **IPETRO VIRS** | JavaScript, Node.js, SQL, REST API | Full-Stack Web |
-| 🍍 **Farm2Screen** | Flutter, Firebase, Supabase | Mobile / Marketplace |
-| 👁️ **Retinal Disease Detection** | Python, ML, Image Processing | AI / Machine Learning |
-| 💼 **Personal Portfolio** | React, TypeScript, Tailwind CSS | Web Development |
-| 🚗 **JPJ Management System** | C++, Queue, DSA | Data Structures |
-| 📚 **Library Management System** | C++, CSV, File Handling | C++ Application |
-| 🚘 **Road Transport Authority System** | C++, CSV, HTML | C++ Application |
-
----
-
-## Achievements
-
-### 🏆 IPETRO VIRS — Workshop II
-
-- 🥉 **3rd Place — Software Engineering Teams**
-- 🏅 **Bronze Award — Overall Best Workshop Project, FTMK**
-
-Developed a Visual Inspection Reporting System focused on improving industrial inspection documentation and automated report generation.
-
----
-
 ## Additional Experience
 
 - Mobile application development with Flutter
 - Full-stack web application development
-- React and TypeScript development
-- Node.js backend development
-- Firebase Authentication and Firestore integration
-- Supabase integration
+- Firebase Authentication and Firestore database integration
 - REST API development and integration
-- SQL and database design
 - Machine-learning model development
-- Computer vision and image processing
-- C++ Object-Oriented Programming
-- Data Structures and Algorithms
-- CSV and file-based data management
-- Automated PDF and document generation
 - Arduino and ESP32 development
 - Sensor integration and IoT prototyping
 - Database design and management
 - UI/UX prototyping and interface design
-- Testing and debugging
-- Git and GitHub version control
-- Technical documentation
+- Testing, debugging and technical documentation
 
 ---
 
 ## Current Focus
 
-- Enhancing **NutriPulse** with intelligent health features
+- Enhancing NutriPulse with intelligent health features
 - Developing scalable Flutter mobile applications
-- Building full-stack applications with modern web technologies
 - Improving machine-learning and computer-vision skills
 - Building reliable APIs and database-driven systems
-- Strengthening Data Structures and Algorithms
 - Exploring Arduino, ESP32 and practical IoT integrations
 - Writing clean, maintainable and well-documented code
 
